@@ -1,0 +1,14 @@
+@charset "ISO-8859-1";
+
+body {
+	 background-color: #ffffff;
+ 	 background-image: url("swr.png");
+}
+
+h3{
+font-family:"Times New Roman";
+font-size:20px;
+text-shadow: aqua;
+color: #ffffff;
+background-color: #000099;
+}

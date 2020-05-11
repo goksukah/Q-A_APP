@@ -1,0 +1,23 @@
+@charset "UTF-8";
+
+  .one ul { 
+  list-style: georgian inside url('/media/raise-hand.svg');
+  color:#8f32a8
+}
+ body, h1, h2, h3, h4, h5, h6{
+ 	font-family:"Karma", sans-serif;
+    color: black;
+  }
+  /* action buttons */
+ .button{
+   	font-family:"Karma", sans-serif;
+    color: #fff!important;
+    background-color: #009688;
+    border-radius: 4px;
+    font-size: 16px;  
+  }
+
+
+ 
+     
+
